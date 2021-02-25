@@ -1,0 +1,56 @@
+#product{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    width: 250px;
+    height: 500px;
+    border: 1px solid whitesmoke;
+    overflow: hidden;
+    padding: 10px;
+   
+   margin: 0px;
+    transition: 0.5s linear;
+}
+.product_discount{
+    background-color: green;
+    height: 20px;
+    width: 80px ;
+    border-radius: 3px;
+    color: white;
+    display: flex;
+    padding: 1px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.card_top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.product_image{
+    height:300px;
+    width: 230px;
+}
+.product_title{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.card_bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.button{
+    height: 35px;
+    width:100px;
+    border:1px solid darkorange;
+    border-radius: 20px;
+    color:darkorange;
+    background-color: white;
+}
+.card p{
+    color: gray;
+}
