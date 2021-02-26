@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b4422d575c33ae706eec6323ac12dda",
+    "revision": "5b27f800495c5743d0ecb002764bc1e3",
     "url": "/Adoit-wa-project/index.html"
   },
   {
-    "revision": "b4cc98eb12a5b18b642d",
+    "revision": "5116475c011e80495595",
     "url": "/Adoit-wa-project/static/css/main.4bde9f14.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Adoit-wa-project/static/js/2.a2b28672.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4cc98eb12a5b18b642d",
-    "url": "/Adoit-wa-project/static/js/main.1b2b4709.chunk.js"
+    "revision": "5116475c011e80495595",
+    "url": "/Adoit-wa-project/static/js/main.cc3404ac.chunk.js"
   },
   {
     "revision": "da530ce990eafc1fe01d",

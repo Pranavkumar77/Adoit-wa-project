@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Adoit-wa-project/static/css/main.4bde9f14.chunk.css",
-    "main.js": "/Adoit-wa-project/static/js/main.1b2b4709.chunk.js",
-    "main.js.map": "/Adoit-wa-project/static/js/main.1b2b4709.chunk.js.map",
+    "main.js": "/Adoit-wa-project/static/js/main.cc3404ac.chunk.js",
+    "main.js.map": "/Adoit-wa-project/static/js/main.cc3404ac.chunk.js.map",
     "runtime-main.js": "/Adoit-wa-project/static/js/runtime-main.15247c40.js",
     "runtime-main.js.map": "/Adoit-wa-project/static/js/runtime-main.15247c40.js.map",
     "static/js/2.a2b28672.chunk.js": "/Adoit-wa-project/static/js/2.a2b28672.chunk.js",
     "static/js/2.a2b28672.chunk.js.map": "/Adoit-wa-project/static/js/2.a2b28672.chunk.js.map",
     "index.html": "/Adoit-wa-project/index.html",
-    "precache-manifest.34aff95b9fe50fe8b9cbbfa03aaa3261.js": "/Adoit-wa-project/precache-manifest.34aff95b9fe50fe8b9cbbfa03aaa3261.js",
+    "precache-manifest.96d743687a279e6b47800ccfe8f4fb4d.js": "/Adoit-wa-project/precache-manifest.96d743687a279e6b47800ccfe8f4fb4d.js",
     "service-worker.js": "/Adoit-wa-project/service-worker.js",
     "static/css/main.4bde9f14.chunk.css.map": "/Adoit-wa-project/static/css/main.4bde9f14.chunk.css.map",
     "static/js/2.a2b28672.chunk.js.LICENSE.txt": "/Adoit-wa-project/static/js/2.a2b28672.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.15247c40.js",
     "static/js/2.a2b28672.chunk.js",
     "static/css/main.4bde9f14.chunk.css",
-    "static/js/main.1b2b4709.chunk.js"
+    "static/js/main.cc3404ac.chunk.js"
   ]
 }
