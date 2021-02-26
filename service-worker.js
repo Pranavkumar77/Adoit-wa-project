@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Adoit-wa-project/precache-manifest.96d743687a279e6b47800ccfe8f4fb4d.js"
+  "/Adoit-wa-project/precache-manifest.34aff95b9fe50fe8b9cbbfa03aaa3261.js"
 );
 
 self.addEventListener('message', (event) => {
