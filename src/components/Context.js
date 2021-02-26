@@ -9,7 +9,7 @@ export class DataProvider extends Component {
             {
                 "_id": "1",
                 "title": "Aashirvad Select Whole wheat Sharbati Atta",
-                "src": "https://images-na.ssl-images-amazon.com/images/I/81EuwfXhqnL._SL1500_.jpg",
+                "src": "//cdn.grofers.com/app/images/products/full_screen/pro_7.jpg",
                 "discount":"20% off",
                 "price": 23,
                 "quantity": "5 kg" ,

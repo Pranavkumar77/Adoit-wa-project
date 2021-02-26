@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import { BsChevronRight } from "react-icons/bs";
 import {DataContext} from '../Context'
 import '../css/Products.css'
 
@@ -31,7 +31,7 @@ export class Products extends Component {
                           <button className="button" onClick={()=> addCart(product._id)}>Add to cart</button>
                           </div>
                               
-                           
+                          <button className="club_price">Club Price: RS 240<BsChevronRight/></button> 
                        </div>
                        </>
                    ))
