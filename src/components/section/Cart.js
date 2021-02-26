@@ -7,6 +7,8 @@ import '../css/Cart.css'
 export class Cart extends Component {
     static contextType = DataContext;
 
+
+    // Total amount
     componentDidMount(){
         this.context.getTotal();
     }
