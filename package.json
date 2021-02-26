@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Pranavkumar77.github.io/Adoit-wa-project",
+  "homepage": "https://localhost:3000",
   "name": "shopping-cart",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "react-stripe-checkout": "^2.6.3"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
