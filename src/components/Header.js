@@ -8,9 +8,6 @@ import {DataContext} from './Context'
 export class Header extends Component {
     static contextType = DataContext;
 
-    
-
-
     render() {
         const {cart} = this.context;
         return (
